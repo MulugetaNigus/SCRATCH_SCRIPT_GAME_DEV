@@ -21,6 +21,6 @@ This is a simple Ping Pong game implemented in Python using the `pygame` library
    ```bash
    pip install pygame
 
-2. Clone/Download this repository: git clone https://github.com/MulugetaNigus/ping-pong.git  # Replace with your repository URL
-
+2. Clone/Download this repository: git clone https://github.com/MulugetaNigus/SCRATCH_SCRIPT_GAME_DEV
+3. 
 # ENJOY, HAPPY GAME !
