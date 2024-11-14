@@ -1,6 +1,6 @@
 # Ping Pong Game in Python
 
-This is a simple Ping Pong game implemented in Python using the `pygame` library.
+This is a simple Ping Pong game implemented in Python using the `turtle` library.
 
 ## Features
 
@@ -12,14 +12,14 @@ This is a simple Ping Pong game implemented in Python using the `pygame` library
 ## Requirements
 
 * Python 3.x
-* Pygame library
+* turtle library
 
 ## Installation
 
-1. **Install Pygame:**
+1. **Install turtle:**
 
    ```bash
-   pip install pygame
+   pip install turtle
 
 2. Clone/Download this repository: git clone https://github.com/MulugetaNigus/SCRATCH_SCRIPT_GAME_DEV
 3. 
